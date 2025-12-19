@@ -7,7 +7,7 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'outflye - Custom T-Shirts, Hoodies & Sweatshirts',
+  title: 'outfyle - Custom T-Shirts, Hoodies & Sweatshirts',
   description: 'Design custom t-shirts, hoodies, and sweatshirts that express your unique style. Premium quality, endless customization options.',
   generator: 'v0.app',
   icons: {

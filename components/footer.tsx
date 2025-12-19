@@ -16,7 +16,7 @@ export function Footer() {
             transition={{ duration: 0.6 }}
             viewport={{ once: true }}
           >
-            <h3 className="text-xl font-light tracking-tight">outflye</h3>
+            <h3 className="text-xl font-light tracking-tight">outfyle</h3>
             <p className="text-sm text-background/70 font-light leading-relaxed">
               Premium custom apparel designed by you, crafted with care.
             </p>
@@ -72,7 +72,7 @@ export function Footer() {
           transition={{ duration: 0.6 }}
           viewport={{ once: true }}
         >
-          © 2025 outflye. All rights reserved.
+          © 2025 outfyle. All rights reserved.
         </motion.p>
       </div>
     </footer>

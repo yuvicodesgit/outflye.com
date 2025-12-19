@@ -9,8 +9,8 @@ export function Questions() {
       icon: Mail,
       title: 'Email',
       description: 'Get in touch with us via email',
-      contact: 'hello@outflye.com',
-      href: 'mailto:hello@outflye.com'
+      contact: 'hello@outfyle.com',
+      href: 'mailto:hello@outfyle.com'
     },
     {
       icon: MessageSquare,
